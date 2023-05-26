@@ -1,6 +1,6 @@
 # Shafiullah Wasiq
 
-<h2 align='center'> <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2>  
+<h2 align='center'> <i>Hello, Folks! <img src="https://github.com/wasiqshafi/Ashutosh00710/blob/master/wave.gif" width="30px"></h2>  
 
 <!-- <img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500"> -->
 
@@ -8,16 +8,16 @@ _Hello there this is **Shafiullah Wasiq**. A **Full Stack Web Developer**. You c
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
-<table width="100" align='center'>
+<!-- <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
         <a href="https://twitter.com/AashishRawte"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
+    </td> -->
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/Shafiullah_wasiq/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/anqunix/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/aashish-rawte-62723b16b/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
+        <a href="https://www.linkedin.com/in/shafiullah-wasiq-4b14ba172/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
     </td>
 </tr>
 </table>
@@ -26,9 +26,9 @@ _Hello there this is **Shafiullah Wasiq**. A **Full Stack Web Developer**. You c
 
 </br>
 
-<!-- <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<!-- <h2 align='center'><i><a href="https://github.com/wasiqshafi/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/wasiqshafi/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p> -->
