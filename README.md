@@ -11,7 +11,7 @@ _Hello there this is **Shafiullah Wasiq**. A **Full Stack Web Developer**. You c
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/AashishRawte"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
+        <a href="https://twitter.com/"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
     </td> 
     <td align='center' width="60">
         <a href="https://www.instagram.com/Shafiullah_wasiq/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
